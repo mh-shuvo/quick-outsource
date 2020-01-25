@@ -222,7 +222,7 @@
   <section id="enterprise-hosting">
     <div class="container py-5">
       <h2 class="text-center py-3">Enterprise Hosting Cloud Solutions in Bangladesh</h2>
-      <p class="text-center px-5">Host your Websites on the Most Advanced Hosting Platform available in Bangladesh. <b>Alpha Net</b> is a <b>USA based web hosting & cloud solutions provider </b> offering Enterprise Hosting Solutions in Bangladesh since 2001. Extremely Fast Dedicated & Virtual Servers, Secure Web Hosting & Business Email Hosting, Expert Support with 100% uptime guarantee! Alpha Net's servers are Hosted at multiple <a>data centers</a> <b>in the USA & Bangladesh,</b> with <b><a>BDIX</a></b> connectivity.</p>
+      <p class="text-center px-5">Host your Websites on the Most Advanced Hosting Platform available in Bangladesh. <b>Quick Outsource & IT</b> is a <b>USA based web hosting & cloud solutions provider </b> offering Enterprise Hosting Solutions in Bangladesh since 2019. Extremely Fast Dedicated & Virtual Servers, Secure Web Hosting & Business Email Hosting, Expert Support with 100% uptime guarantee! Quick Outsource & IT's servers are Hosted at multiple <a>data centers</a> <b>in the USA & Bangladesh,</b> with <b><a>BDIX</a></b> connectivity.</p>
     </div>
   </section>
   <!--**-- Enterprise Hosting Section End --**-->
@@ -305,7 +305,7 @@
         </div>
         <div class="col-md-5 px-5 py-5 text-center">
           <h4>Watch Quick Outsource & It's Founder <b> Rishab </b> on ATN News Program: <b> Young Nite </b></h4>
-          <p class="mt-3">Recently while visiting Bangladesh from the USA, Alpha Net's Founder Abu Sufian Haider was featured on Young Nite Program of ATN News Television. Alpha Net was the key focus on this program, along with many other <a href="#">projects</a>  established by <a href="#"> Mr. Haider.</a></p>
+          <p class="mt-3">Recently while visiting Bangladesh from the USA, Quick Outsource & IT's Founder SM Rishad was featured on Young Nite Program of ATN News Television. Quick Outsource & IT was the key focus on this program, along with many other <a href="#">projects</a>  established by <a href="#"> Mr. Haider.</a></p>
         </div>
       </div>
       <div class="custom-button text-center mt-5">
@@ -591,7 +591,7 @@
   <section id="hosting-flatform">
     <div class="container py-5">
       <h1 class="text-center"style="#021238;">Best Linux & Windows Hosting Platforms</h1>
-      <p class="text-center py-2">You can choose to Host on Alpha Net's cPanel, CloudLinux & Litespeed powered Linux Hosting platform or Windows 2019 & SQL Server 2017 powered ASP.NET Hosting & MVC (Razor) Platform. Our windows hosting platform also supports .Net Core 3.0 hosting. Alpha Net's hosting infrastructure is the best available in Bangladesh and offers fast & secure Web Hosting in Bangladesh at a very low cost.</p>
+      <p class="text-center py-2">You can choose to Host on Quick Outsource & IT's cPanel, CloudLinux & Litespeed powered Linux Hosting platform or Windows 2019 & SQL Server 2017 powered ASP.NET Hosting & MVC (Razor) Platform. Our windows hosting platform also supports .Net Core 3.0 hosting. Quick Outsource & IT's hosting infrastructure is the best available in Bangladesh and offers fast & secure Web Hosting in Bangladesh at a very low cost.</p>
       <div class="row">
         <div class="col-md-8 offset-md-2">
           <div id="accordion">
@@ -610,7 +610,7 @@
             <div class="card">
               <div class="card-header">
                 <a class="collapsed card-link" data-toggle="collapse" href="#collapseTwo">
-                  <i class="fas fa-thumbs-up pr-3"></i>Providing Web Hosting, VPS & Cloud Services in Bangladesh since 2001.
+                  <i class="fas fa-thumbs-up pr-3"></i>Providing Web Hosting, VPS & Cloud Services in Bangladesh since 2019.
               </a>
               </div>
               <div id="collapseTwo" class="collapse" data-parent="#accordion">
@@ -670,7 +670,7 @@
             <div class="card">
               <div class="card-header">
                 <a class="collapsed card-link" data-toggle="collapse" href="#collapseSeven">
-                  <i class="fas fa-thumbs-up pr-3"></i>Free SSL Certificates available to every Website hosted with Alpha Net.
+                  <i class="fas fa-thumbs-up pr-3"></i>Free SSL Certificates available to every Website hosted with Quick Outsource & IT.
                 </a>
               </div>
               <div id="collapseSeven" class="collapse" data-parent="#accordion">
@@ -720,7 +720,7 @@
   <section id="servers-bangladesh">
     <div class="container py-5">
       <h1 class="text-center pb-4">High Performance Dedicated Servers in Bangladesh</h1>
-      <p class="text-center px-5">Take your IT Projects to the next level with a high-performance Dedicated Server from Alpha Net. Get extreme performance from the latest E3-V5 Xeon Processor from Intel. Your dedicated server will feature high endurance SSD RAID with 100K+ IOPS, supporting 64GB DDR4 RAM. You can also choose the latest Dual E5-V4 based dedicated server featuring up to 48 Cores and 256GB DDR4 RAM. Get your server fully configured and managed with our Managed Dedicated Server options. Alpha Net's dedicated servers are based on SuperMicro's compact and energy-efficient MicroBlade platform and it's low operating cost allows us to provide Dedicated Servers in Bangladesh at a very low price. You can get a Dedicated Server from Alpha Net for as low as Tk 4,995/Month! Currently, We have large scale Dedicated Server Hosted in Bangladesh with High-Speed BDIX Connectivity. Now You can save your Bandwidth Gain your Server speed up to 70%. </p>
+      <p class="text-center px-5">Take your IT Projects to the next level with a high-performance Dedicated Server from Quick Outsource & IT. Get extreme performance from the latest E3-V5 Xeon Processor from Intel. Your dedicated server will feature high endurance SSD RAID with 100K+ IOPS, supporting 64GB DDR4 RAM. You can also choose the latest Dual E5-V4 based dedicated server featuring up to 48 Cores and 256GB DDR4 RAM. Get your server fully configured and managed with our Managed Dedicated Server options. Quick Outsource & IT's dedicated servers are based on SuperMicro's compact and energy-efficient MicroBlade platform and it's low operating cost allows us to provide Dedicated Servers in Bangladesh at a very low price. You can get a Dedicated Server from Quick Outsource & IT for as low as Tk 4,995/Month! Currently, We have large scale Dedicated Server Hosted in Bangladesh with High-Speed BDIX Connectivity. Now You can save your Bandwidth Gain your Server speed up to 70%. </p>
     </div>
   </section>
   <!--**-- Service Bangladesh Section End --**-->
@@ -729,7 +729,7 @@
   <section id="provider-bangladesh">
     <div class="container py-5">
       <h1 class="text-center pb-3">Become a Hosting Provider in Bangladesh</h1>
-      <p class="text-center px-5" >Offer Web Hosting & Domain Registration Services to your customers. You can become a Domain Registration and Web Hosting Provider in Bangladesh with Alpha Net's white-label, turn-key reseller solutions. It's a great way to grow your service portfolio and increase revenue. Partner with the best Web Hosting Company in Bangladesh. Contact us to get started.</p>
+      <p class="text-center px-5" >Offer Web Hosting & Domain Registration Services to your customers. You can become a Domain Registration and Web Hosting Provider in Bangladesh with Quick Outsource & IT's white-label, turn-key reseller solutions. It's a great way to grow your service portfolio and increase revenue. Partner with the best Web Hosting Company in Bangladesh. Contact us to get started.</p>
     </div>
   </section>
   <!--**-- Provider Bangladesh Section End --**-->
@@ -760,7 +760,7 @@
           <i class="fas fa-user-graduate" style="font-size: 80px; color:#2D0D2F;"></i>
         </div>
         <div class="col-md-5">
-          <p class="pt-4">Get a 50% Discount on any Hosting package. If you are an active Computer or Electronics Department Student, show your ID card & get a 50% Discount on all Web Hosting Packages from Alpha Net.</p>
+          <p class="pt-4">Get a 50% Discount on any Hosting package. If you are an active Computer or Electronics Department Student, show your ID card & get a 50% Discount on all Web Hosting Packages from Quick Outsource & IT.</p>
         </div>
       </div>
       <div class="text-center">
@@ -874,7 +874,7 @@
           </ul>
         </div>
         <div class="col-md-3 col-sm-12">
-          <h6 class="py-2" style="border-bottom: 2px solid #4c0353;">ABOUT ALPHA NET</h6>
+          <h6 class="py-2" style="border-bottom: 2px solid #4c0353;">ABOUT</h6>
           <ul>
             <li><a href="#"><i class="fas fa-angle-double-right"></i> Company</a></li>
             <li><a href="#"><i class="fas fa-angle-double-right"></i> Founder</a></li>
@@ -882,7 +882,7 @@
             <li><a href="#"><i class="fas fa-angle-double-right"></i> Technology</a></li>
             <li><a href="#"><i class="fas fa-angle-double-right"></i> Our Projects</a></li>
             <li><a href="#"><i class="fas fa-angle-double-right"></i> Payment Options</a></li>
-            <li><a href="#"><i class="fas fa-angle-double-right"></i> Contact Alpha Net</a></li>
+            <li><a href="#"><i class="fas fa-angle-double-right"></i> Contact Quick Outsource & IT</a></li>
           </ul>
         </div>
       </div>

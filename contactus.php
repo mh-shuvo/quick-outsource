@@ -56,6 +56,12 @@
     line-height: inherit;
     border-radius: 5px;
     width: 100%;
+    background-image: linear-gradient(to right, rgb(11, 22, 54), rgb(46, 12, 46)); 
+    color: white;
+}
+.form-control{
+  background-image: linear-gradient(to right, rgb(11, 22, 54), rgb(46, 12, 46)); 
+  color: white;
 }
   </style>
 </head>

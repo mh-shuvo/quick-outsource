@@ -47,7 +47,7 @@ include('header.php');
   <section id="g-suit-bg">
     <div class="container py-5 text-center text-light">
     <h2 class="pb-3">Google Cloud Present G-Suite</h2>
-    <P class="px-5" style="line-height: 2em;">Now a day’s Google Mail with Google Doc Most Popular Email & cloud platform. Alpha Net is an authorized Distributor of Google Cloud Platform in Bangladesh. Setup your own Domain with Powerful Google Service & get 30 GB of space, ad-free inboxes, Easy Migration tools, and unlimited groups included spam protection & Backups.</P>
+    <P class="px-5" style="line-height: 2em;">Now a day’s Google Mail with Google Doc Most Popular Email & cloud platform. Quick Outsource & IT is an authorized Distributor of Google Cloud Platform in Bangladesh. Setup your own Domain with Powerful Google Service & get 30 GB of space, ad-free inboxes, Easy Migration tools, and unlimited groups included spam protection & Backups.</P>
     </div>
   </section>
 

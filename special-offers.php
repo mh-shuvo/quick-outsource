@@ -34,7 +34,7 @@ include('header.php');
           <i class="fas fa-user-graduate" style="font-size: 80px; color:#2D0D2F;"></i>
         </div>
         <div class="col-md-5 text-left">
-          <p class="text-left pt-4">Get a 50% Discount on any Hosting package. If you are an active Computer or Electronics Department Student, show your ID card & get a 50% Discount on all Web Hosting Packages from Alpha Net.</p>
+          <p class="text-left pt-4">Get a 50% Discount on any Hosting package. If you are an active Computer or Electronics Department Student, show your ID card & get a 50% Discount on all Web Hosting Packages from Quick Outsource & IT.</p>
         </div>
       </div>
       <div class="text-center">

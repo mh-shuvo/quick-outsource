@@ -263,7 +263,7 @@
 
 
     </div>
-
+    
 
   </section>
 
@@ -271,7 +271,7 @@
   <section id="hosting-flatform">
     <div class="container py-5">
       <h1 class="text-center">Best Linux & Windows Hosting Platforms</h1>
-      <p class="text-center">You can choose to Host on Alpha Net's cPanel, CloudLinux & Litespeed powered Linux Hosting platform or Windows 2019 & SQL Server 2017 powered ASP.NET Hosting & MVC (Razor) Platform. Our windows hosting platform also supports .Net Core 3.0 hosting. Alpha Net's hosting infrastructure is the best available in Bangladesh and offers fast & secure Web Hosting in Bangladesh at a very low cost.</p>
+      <p class="text-center">You can choose to Host on Quick Outsource & IT's cPanel, CloudLinux & Litespeed powered Linux Hosting platform or Windows 2019 & SQL Server 2017 powered ASP.NET Hosting & MVC (Razor) Platform. Our windows hosting platform also supports .Net Core 3.0 hosting. Quick Outsource & IT's hosting infrastructure is the best available in Bangladesh and offers fast & secure Web Hosting in Bangladesh at a very low cost.</p>
       <div class="row">
         <div class="col-md-8 offset-md-2">
           <div id="accordion">
@@ -350,7 +350,7 @@
             <div class="card">
               <div class="card-header">
                 <a class="collapsed card-link" data-toggle="collapse" href="#collapseSeven">
-                  <i class="fas fa-thumbs-up pr-3"></i>Free SSL Certificates available to every Website hosted with Alpha Net.
+                  <i class="fas fa-thumbs-up pr-3"></i>Free SSL Certificates available to every Website hosted with Quick Outsource & IT.
                 </a>
               </div>
               <div id="collapseSeven" class="collapse" data-parent="#accordion">

@@ -95,7 +95,7 @@
           </ul>
         </div>
         <div class="col-md-3 col-sm-12">
-          <h6 class="py-2" style="border-bottom: 2px solid #4c0353;">ABOUT ALPHA NET</h6>
+          <h6 class="py-2" style="border-bottom: 2px solid #4c0353;">ABOUT</h6>
           <ul>
             <li><a href="#"><i class="fas fa-angle-double-right"></i> Company</a></li>
             <li><a href="#"><i class="fas fa-angle-double-right"></i> Founder</a></li>
@@ -103,7 +103,8 @@
             <li><a href="#"><i class="fas fa-angle-double-right"></i> Technology</a></li>
             <li><a href="#"><i class="fas fa-angle-double-right"></i> Our Projects</a></li>
             <li><a href="#"><i class="fas fa-angle-double-right"></i> Payment Options</a></li>
-            <li><a href="#"><i class="fas fa-angle-double-right"></i> Contact Alpha Net</a></li>
+            <li><a href="#"><i class="fas fa-angle-double-right"></i> Contact Quick Outsource & IT</a></li>
+
           </ul>
         </div>
       </div>
