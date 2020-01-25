@@ -1,0 +1,571 @@
+/* 
+* Project Name : Quick OutSource & IT 
+* Project Author : SM Rishad 
+* Project Start Date : 07-1-2020
+* All Section 
+*   1. Base Css
+*/
+/* ============> **Base Css Start** <============ */
+/* ===============> **Font-Family Css Start** <==============*/
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Open+Sans|Source+Sans+Pro&display=swap');
+/* font-family: 'Source Sans Pro', sans-serif;  */
+/* font-family: 'Montserrat', sans-serif; */
+/* font-family: 'Open Sans', sans-serif; */
+
+* body{ 
+    font-family: 'Montserrat', sans-serif;
+    -webkit-font-family: 'Montserrat', sans-serif;
+    -moz-font-family: 'Montserrat', sans-serif;
+    -ms-font-family: 'Montserrat', sans-serif;
+}
+
+/* ===============> **Font-Family Css End** <==============*/
+
+
+
+/* ======= Logo Section Css Start =========*/
+
+#logo-section .logo-name h2{
+    color: rgb(46, 12, 46);
+}
+#logo-section .logo-name h6{
+    color: rgb(128, 128, 128);
+
+}
+#logo-section a{
+    text-decoration: none;
+}
+#logo-section .logo-link i,a{
+    color: rgb(46, 12, 46);
+    font-size: 14px !important;
+}
+#logo-section .logo-link i,a:hover{
+    color: rgb(46, 12, 46);
+}
+#logo-section .add a{
+    border: 1px solid #2D0C2E;
+}
+#logo-section .add a:hover{
+    background-image: linear-gradient(to right, rgb(11, 22, 54), rgb(46, 12, 46));
+    color: whitesmoke;
+    transition-delay: 1ms;
+}
+/* ======= Logo Section Css End =========*/
+
+/* ======= Nav Section Css Start =========*/
+#nav {
+    background-image: linear-gradient(to right, rgb(11, 22, 54), rgb(46, 12, 46)); 
+    font-family: 'Source Sans Pro', sans-serif; 
+    -webkit-font-family: 'Source Sans Pro', sans-serif;
+    -moz-font-family: 'Source Sans Pro', sans-serif;
+    -ms-font-family: 'Source Sans Pro', sans-serif; 
+
+}
+#nav a{
+ 
+    font-size: 16px !important;
+}
+#nav {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    z-index: 20;
+}
+#nav ul .dropdown-menu{
+    background-image: linear-gradient(to right, rgb(11, 22, 54), rgb(46, 12, 46));
+    color: rgb(255, 255, 255);
+}
+#nav ul .dropdown-menu a{
+    color: whitesmoke;
+}
+#nav ul .dropdown-menu a:hover{
+    background-image: linear-gradient(to right, rgb(11, 22, 54), rgb(46, 12, 46));
+    color: rgb(173, 143, 173);
+}
+.dropdown>.dropdown-menu {
+    top: 200%;
+    transition: 0.3s all ease-in-out;
+}
+.dropdown:hover>.dropdown-menu {
+    display: block;
+    top: 100%;
+}
+
+.dropdown>.dropdown-toggle:active {
+  /*Without this, clicking will make it sticky*/
+    pointer-events: none;
+}
+
+/* ======= Nav Section Css End =========*/
+/* ======= Register Section Css Start =========*/
+
+#register-domain{
+    background-image: linear-gradient(to right, rgb(11, 22, 54), rgb(46, 12, 46)); 
+
+}
+#register-domain .custom-button{
+    border: 2px solid #4c0353; 
+    color: #b41ac2;
+
+}
+#register-domain .custom-button:hover{
+    background-color: #4c0353;
+    border: 2px solid #4c0353; 
+    color: #ffffff;
+
+}
+#register-domain p{
+    margin: 0px;
+    padding: 0px;
+    font-size: 25px;
+}
+#register-domain a{
+    border: 2px solid #4c0353;
+}
+#register-domain a:hover{
+    background-color: #4c0353;
+}
+/* ======= Nav Section Css End =========*/
+
+
+/* ======= Enterprise Section Css Start =========*/
+#enterprise-hosting{
+    background-image: url(../img/sebastian-unrau-dT4hx-QW0Aw-unsp1lash.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    width: 100%;
+}
+#enterprise-hosting{
+    color: white;
+}
+#enterprise-hosting p{
+    font-size: 16px;
+    line-height: 1.5rem;
+}
+/* ======= Enterprise Section Css End =========*/
+/* ======= Windows and Linux Section Css Start =========*/
+#linux-windows h4{
+    color: #021238;
+
+}
+#linux-windows i{
+    font-size: 40px;
+    color: #3d0142;
+    padding-right: 5px;
+}
+#linux-windows ul{
+    padding-left: 0;
+}
+#linux-windows .custom-button{
+    border: 1px solid #300035;
+    color: #300035; 
+
+}
+#linux-windows .custom-button:hover{
+    background-color: #300035;
+    color: whitesmoke; 
+
+}
+#linux-windows .list-group{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+
+}
+
+/* ======= Windows and linux Section Css End =========*/
+/* ======= Watch Panel Section Css Start =========*/
+
+#watch-pannel{
+    background-color: #F3F3F3;
+    color: #4c0353;
+    
+}
+#watch-pannel p{
+    font-size: 16px;
+    line-height: 1.5rem;
+    
+}
+
+#watch-pannel .custom-button a{
+    background-color: #4c0353;
+    color: white;
+    
+}
+#watch-pannel .custom-button a:hover{
+    background-color: #300035;
+    color: white;
+    
+}
+/* ======= Watch Panel Section Css End =========*/
+
+
+/* ======= Hosting Section Css Start =========*/
+
+#hosting-plan h1{
+    color: #4c0353;
+}
+#hosting-plan .hr{
+    border-bottom: 1px solid #300035;
+    width: 600px;
+}
+#hosting-plan .card-head{
+    background-image: linear-gradient(to right, rgb(11, 22, 54), rgb(46, 12, 46)); 
+
+
+}
+
+#hosting-plan .card:hover{
+    border: 1px solid #4c0353;
+}
+#hosting-plan .custom-button a{
+    border: 1px solid #4c0353;
+    color: #4c0353; 
+
+}
+#hosting-plan .custom-button a:hover{
+    background-color: #300035;
+    color: whitesmoke; 
+
+}
+#hosting-plan .packeg_button a{
+    background-color: #4c0353;
+    color: white;
+    
+}
+#hosting-plan .packeg_button a:hover{
+    background-color: #300035;
+    color: white;
+    
+}
+/* ======= Hosting Section Css End =========*/
+
+
+/* ======= Payment Section Css Start =========*/
+#pement .pament-body img{
+    width:auto;
+    height: 100px;
+    padding-left: 3px;
+    text-align: center;    
+}
+
+#pement{
+    background-color: #F3F3F3;
+}
+#pement .hr{
+    border-bottom: 1px solid #300035;
+    width: 500px;
+}
+/* ======= Payment Section Css End =========*/
+
+
+/* ======= Future clints Section Css Start =========*/
+#future-clints .packeg_button a{
+    background-color: #4c0353;
+    color: white;
+    
+}
+#future-clints .packeg_button a:hover{
+    background-color: #300035;
+    color: white;
+    
+}
+#future-clints .hr{
+    border-bottom: 1px solid #300035;
+    width: 500px;
+}
+#future-clints h6{
+    line-height: 1.5rem;
+}
+/* ======= Future clints Section Css End =========*/
+
+
+
+
+/* ======= Latest Section Css Start =========*/
+#latest-news{
+    background-color: #F3F3F3;
+
+}
+#latest-news p{
+    font-size: 16px;
+    line-height: 1.5rem;
+
+}
+#latest-news .custom-button{
+    border: 1px solid #4c0353;
+    color: #4c0353; 
+
+}
+#latest-news .hr{
+    border-bottom: 1px solid #300035;
+    width: 400px;
+}
+#latest-news .custom-button:hover{
+    background-color: #300035;
+    color: whitesmoke; 
+
+}
+#latest-news .packeg_button a{
+    background-color: #4c0353;
+    color: white;
+    
+}
+#latest-news .packeg_button a:hover{
+    background-color: #300035;
+    color: white;
+    
+}
+/* ======= Latest Section Css End =========*/
+
+
+/* ======= Media Covarage Section Css Start =========*/
+#media-coverage .hr{
+    border-bottom: 1px solid #300035;
+    width: 500px;
+}
+#media-coverage .custom-button{
+    border: 1px solid #4c0353;
+    color: #4c0353; 
+
+}
+#media-coverage .custom-button:hover{
+    background-color: #300035;
+    color: whitesmoke; 
+
+}
+#media-coverage .packeg_button a{
+    background-color: #4c0353;
+    color: white;
+    
+}
+#media-coverage .packeg_button a:hover{
+    background-color: #300035;
+    color: white;
+    
+}
+/* ======= Media Covarage Section Css End =========*/
+
+
+/* ======= Article Section Css Start =========*/
+#article{
+    background-color: #F3F3F3;
+}
+#article p{
+    font-size: 16px;
+    line-height: 1.5rem;
+
+}
+/* ======= Article Section Css End =========*/
+
+
+/* ======= Hosting Section Css Start =========*/
+#hosting-flatform i{
+    font-size: 25px;
+    color: #300035;
+}
+#hosting-flatform p{
+    font-size: 16px;
+    line-height: 1.5rem;
+}
+/* ======= Hosting Section Css End =========*/
+
+
+/* ======= Register Manage Certificates Section Css Start =========*/
+
+#register-manage{
+    background-color: #F3F3F3 ;
+}
+#register-manage p{
+    font-size: 16px;
+    line-height: 1.5rem;
+}
+#certificates p{
+    font-size: 16px;
+    line-height: 1.5rem;
+}
+/* ======= Register Manage Certificates Section Css End =========*/
+
+
+/* ======= Service and Providers Section Css Start =========*/
+#servers-bangladesh{
+    background-color: #F3F3F3 ;
+}
+#servers-bangladesh p{
+    font-size: 16px;
+    line-height: 1.5rem;
+}
+#provider-bangladesh p{
+    font-size: 16px;
+    line-height: 1.5rem;
+}
+/* ======= Service Providers Section Css End =========*/
+
+
+/* ======= Telephone Section Css Start =========*/
+#telephone-system{
+    background-color: #F3F3F3 ;
+
+}
+#telephone-system p{
+    font-size: 16px;
+    line-height: 1.5rem;
+
+}
+#telephone-system .packeg_button a{
+    background-color: #4c0353;
+    color: white;
+    
+}
+#telephone-system .packeg_button a:hover{
+    background-color: #300035;
+    color: white;
+    
+}
+/* ======= Telephone Section Css End =========*/
+
+
+
+/* ======= Special Offer Section Css Start =========*/
+#special-offer h4{
+    font-weight: 900;
+    line-height: 3rem;
+
+}
+#special-offer p{
+    font-size: 16px;
+    line-height: 1.5rem;
+
+}
+#special-offer .custom-button{
+    border: 1px solid #4c0353;
+    color: #4c0353; 
+
+}
+#special-offer .custom-button:hover{
+    border: 1px solid #300035;
+    background-color: #300035;
+    color: whitesmoke; 
+
+}
+
+/* ======= Special Offer Section Css End =========*/
+
+
+/* ======= WebDesign Section Css Start =========*/
+
+#web-design{
+    background-color: #F3F3F3 ;
+}
+#web-design p{
+    font-size: 16px;
+    line-height: 1.5rem;;
+}
+/* ======= WebDesign Section Css End =========*/
+
+
+/* ======= Help Line Section Css Start =========*/
+
+#help-line i{
+    font-size: 18px;
+    padding: 10px;
+}
+#help-line #social-link i{
+    height: 38px;
+    width: 38px;
+    /* border: 1px solid #4c0353;  */
+    border-radius: 50px;  
+}
+
+#help-line #social-link i:hover{
+    background-color: #4C0353; 
+    border-radius: 50px;  
+    color: whitesmoke;
+}
+#help-line #social-link .fa-facebook-f{
+    
+    background-color: #4267B2;
+    border-radius: 50px;  
+    color: white;
+}
+#help-line #social-link .fa-youtube{
+    
+    background-color: rgb(196, 194, 194);
+    border-radius: 50px;  
+    color: red;
+}
+#help-line #social-link .fa-twitter{   
+    background-color: #1DA1F2;
+    border-radius: 50px;  
+    color: white;
+}
+#help-line #social-link .fa-linkedin-in{
+    
+    background-color: #0172B1;
+    border-radius: 50px;  
+    color: white;
+}
+#help-line #social-link .fa-google-plus-g{
+    
+    background-color: rgb(206, 0, 0);
+    border-radius: 50px;  
+    color: white;
+}
+#help-line .custom-button{
+    border: 1px solid #4c0353;
+    color: #4c0353; 
+
+}
+#help-line .custom-button:hover{
+    background-color: #4c0353;
+    color: whitesmoke; 
+
+}
+/* ======= Help Line Section Css End =========*/
+
+
+/* ======= Service Section Css Start =========*/
+#service{
+    background-image: linear-gradient(to right, rgb(11, 22, 54),rgb(46, 12, 46)); 
+ 
+}
+#service a:hover{
+    color: rgb(173, 143, 173);
+      
+}
+#service ul{
+    padding: 0;
+
+}
+#service ul li{
+    list-style-type: none;
+
+}
+#service ul li i{
+    padding-right: 2px;
+
+}
+#service ul li a{
+    text-decoration: none;
+    color: white;
+
+}
+/* ======= Service Section Css End =========*/
+
+/* ======= Footer Section Css Start =========*/
+
+#footer{
+    border-top: 2px solid #28002c;
+    background-color:#0B1636; 
+}
+/* ======= Footer Section Css End =========*/
+
+
+
+
+
+
+
+
+
